@@ -57,7 +57,7 @@ I'm a passionate **Frontend Developer** focused on building clean, accessible an
 
 ### 📫 You can reach me at:
 
-- 📍 [LinkedIn](https://www.linkedin.com/in/luisjulio) *(replace this with your real link)*
+- 📍 [LinkedIn](https://www.linkedin.com/in/luisjulio)
 
 ---
 
